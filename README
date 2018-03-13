@@ -1,0 +1,19 @@
+com.stuM.control 控制
+StudentService.java 操作学生表的类
+
+com.stuM.domain JavaBean类
+Student.java 对应学生表
+
+com.stuM.view 界面
+StuMain.java 程序入口
+StuManager.java 主界面
+StuUpdata.java 修改增加界面
+
+com.tools.sqlhelper 数据库工具类
+SQLHelper.java 数据库工具类
+SQLHelperTest.java (项目无关,测试用例)
+
+dbinfo.properties Oracle数据库配置文件
+
+第三方库:
+lib/ojdbc7.jar
